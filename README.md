@@ -28,8 +28,8 @@ Here will be a collection of what, at least what I think/hope, are useful snippe
 
 Below are a list of the snippets contained
 
-|FileName|For||Snippet Shortcut|Purpose|Screenshot|
-|:-:|:-:|:-:|:-:|
+|FileName|For|Snippet Shortcut|Purpose|Screenshot|
+|:-:|:-:|:-:|:-:|:-:|
 |ArrangeActAssert.snippet|VisualStudio|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/ArrangeActAssert.gif)|
 |ArrangeActAssert.snippet|VSCode|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/VSCode-AAA-Snippet.gif)|
 
