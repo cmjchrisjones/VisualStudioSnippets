@@ -5,7 +5,7 @@ A collection of useful snippets
 
 Here will be a collection of what, at least what I think/hope, are useful snippets to use inside of Visual Studio
 
-## Installing a snippet
+## Installing a snippet in Visual Studio
 
 - Clone, Fork or Download this repo from [https://github.com/cmjchrisjones/VisualStudioSnippets](https://github.com/cmjchrisjones/VisualStudioSnippets)
 - In Visual Studio, select `Tools -> Code Snippets Manager -> Import`
@@ -14,15 +14,24 @@ Here will be a collection of what, at least what I think/hope, are useful snippe
 - Select the Snippet(s) you want to install
 - Click Open
 
+
+## Installing a snippet in Visual Studio Code (VSCode)
+
+### User install of VScode 
+
+- Copy the snippet to `%APPDATA%\Roaming\Code\User\Snippets`
+
+
 ![Importing a snippet](./docs/images/ImportingASnippet.gif)
 
 ## Snippets Available
 
 Below are a list of the snippets contained
 
-|FileName|Snippet Shortcut|Purpose|Screenshot|
+|FileName|For||Snippet Shortcut|Purpose|Screenshot|
 |:-:|:-:|:-:|:-:|
-|ArrangeActAssert.snippet|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/ArrangeActAssert.gif)|
+|ArrangeActAssert.snippet|VisualStudio|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/ArrangeActAssert.gif)|
+|ArrangeActAssert.snippet|VSCode|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/VSCode-AAA-Snippet.gif)|
 
 ## To Contribute
 
