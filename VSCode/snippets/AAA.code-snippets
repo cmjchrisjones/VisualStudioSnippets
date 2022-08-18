@@ -1,0 +1,15 @@
+{ 
+	"AAA": {
+		"prefix": [
+			"Insert Arrange / Act / Assert comments"
+		],
+		"body": [
+			"//Arrange",
+			"",
+			"//Act",
+			"",
+			"//Assert"
+		],
+		"description": "An easy way to insert Arrange/Act/Assert comments into your code"
+	}
+}
