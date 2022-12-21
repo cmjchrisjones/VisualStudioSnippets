@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Arrange Act Assert</Title>
+            <Author>Chris Jones</Author>
+            <Description>Inserts the Arrange Act Assert header comments for unit testing</Description>
+            <Shortcut>AAA</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[foreach (var e in ViewData.ModelState)
+                {
+                    if (e.Value.Errors.Any())
+                    {
+                        <li>@e.Key - @e.Value.Errors.FirstOrDefault().ErrorMessage</li>
+                    }
+                }]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
