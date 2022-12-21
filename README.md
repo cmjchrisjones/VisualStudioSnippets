@@ -31,6 +31,7 @@ Below are a list of the snippets contained
 |FileName|For|Snippet Shortcut|Purpose|Screenshot|
 |:-:|:-:|:-:|:-:|:-:|
 |ArrangeActAssert.snippet|VisualStudio|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/ArrangeActAssert.gif)|
+|LoopModelStateErrorsInRazor.snippet|VisualStudio|LoopErrorRazor|Takes all the errors in the ModelState in ViewData and loops over displaying the keys and value of the error message| |
 |ArrangeActAssert.snippet|VSCode|aaa|Save time writing Arrange, Act and Assert comments in unit tests, just do `aaa` and hit `tab` and the comments will appear|![ArrangeActAssert](docs/images/VSCode-AAA-Snippet.gif)|
 
 ## To Contribute
